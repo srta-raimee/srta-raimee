@@ -15,6 +15,7 @@ I'm Larissa, a passionate Software Developer, intern at **Siemens** and Machine 
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/larissa-raimee)
+- [Instagram](https://www.instagram.com/srta.raimee/)
 
 ### ⚡ About me:
  - I love to play piano, learn new languages (currently imparando l'italiano!) and, of course, innovate and make the difference wherever I am!
