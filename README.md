@@ -6,8 +6,8 @@ I'm Larissa, a passionate Software Developer, intern at **Siemens** and Machine 
 - **Languages:** C/C++, Python, Java, PHP, JavaScript, MATLAB, Bash
 - **Frameworks:** Flask, Laravel, Robot Framework, Selenium, QT
 - **Databases:** MySQL, PostgreSQL, NoSQL
-- **Game Engines** Unreal, GameMaker
-- **Others** Blender, Wordpress, UML, Power BI, Nessus, GoPhish, Burp Suite, Fortinet, SpiderFoot, ReconFTW, Nmap
+- **Game Engines:** Unreal, GameMaker
+- **Others:** Blender, Wordpress, UML, Power BI, Nessus, GoPhish, Burp Suite, Fortinet, SpiderFoot, ReconFTW, Nmap
   
 ### 🦋 Currently Learning and Working on:
 - Advanced Machine Learning techniques
