@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hey there, I'm Larissa Raimee :D
 
-### ⚡ About me:
-I'm Larissa, a passionate Software Developer, intern at **Siemens** and Machine Learning researcher! Also, I love to play piano, learn new languages (currently imparando l'italiano!) and, of course, innovate and make the difference wherever I am!
+### 🌸 About me:
+A passionate Software Developer, intern at **Siemens** and a Machine Learning researcher! Also, I love to play piano, learn new languages (currently imparando l'italiano) and, of course, make the difference wherever I am!
 
 ### 💻 Technologies & Tools I work with:
 
