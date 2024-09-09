@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**srta-raimee/srta-raimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Larissa, a passionate Software Developer, intern at **Siemens** and Machine Learning researcher!
 
-Here are some ideas to get you started:
+### 💻 Technologies & Tools I work with:
+- **Languages:** C/C++, Python, Java, PHP, JavaScript, MATLAB, Bash
+- **Frameworks:** Flask, Laravel, Robot Framework, Selenium, QT
+- **Databases:** MySQL, PostgreSQL, NoSQL
+- **Game Engines** Unreal, GameMaker
+- **Others** Blender, Wordpress, UML, Power BI, Nessus, GoPhish, Burp Suite, Fortinet, SpiderFoot, ReconFTW, Nmap
+  
+### 🦋 Currently Learning and Working on:
+- Advanced Machine Learning techniques
+- C++ Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/larissa-raimee)
+
+### ⚡ About me:
+ - I love to play piano, learn new languages (currently imparando l'italiano!) and, of course, innovate and make the difference wherever I am!
