@@ -24,8 +24,8 @@ I'm Larissa, a passionate Software Developer, intern at **Siemens** and Machine 
 - Advanced Machine Learning techniques
 - C++ Projects
 
-### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-raimee) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/srta.raimee/)
+### 📫 How to reach me: 
+**My Socials:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-raimee) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/srta.raimee/)
 
 ### ⚡ About me:
 - I love to play piano, learn new languages (currently imparando l'italiano!) and, of course, innovate and make the difference wherever I am!
