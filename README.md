@@ -1,9 +1,9 @@
 ## Hey there, I'm Larissa Raimee :D
 
-### 🌸 About me:
+### About me:
 A passionate Software Developer, intern at **Siemens** and a Machine Learning researcher! Also, I love to play piano, learn new languages (currently imparando l'italiano) and, of course, make the difference wherever I am!
 
-### 💻 Technologies & Tools I work with:
+### Technologies & Tools I work with:
 
 - **Programming Languages:**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,10 +21,10 @@ A passionate Software Developer, intern at **Siemens** and a Machine Learning re
 - **Others:**
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![UML](https://img.shields.io/badge/UML-007ACC?style=flat-square&logo=uml&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Nessus](https://img.shields.io/badge/Nessus-006AFF?style=flat-square&logo=nessus&logoColor=white) ![GoPhish](https://img.shields.io/badge/GoPhish-4479A1?style=flat-square&logo=gophish&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat-square&logo=burp-suite&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-3949AB?style=flat-square&logo=spiderfoot&logoColor=white) ![ReconFTW](https://img.shields.io/badge/ReconFTW-4479A1?style=flat-square&logo=reconftw&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-005571?style=flat-square&logo=nmap&logoColor=white)
 
-### 🦋 Currently Learning and Working on:
+### Currently Learning and Working on:
 - Advanced Machine Learning techniques
 - C++ Projects
 
-### 📫 How to reach me: 
+### How to reach me: 
 **My Socials:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-raimee) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/srta.raimee/)
 
