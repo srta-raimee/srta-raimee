@@ -1,7 +1,7 @@
 ## Hey there, I'm Larissa Raimee ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 
 ### About me:
-A passionate Ccomputer Science senior and a Machine Learning researcher! Also, I love to play piano, learn new languages (currently imparando l'italiano) and, of course, make the difference wherever I am!
+A passionate Ccomputer Science senior and Machine Learning researcher. Also, I love to play piano, learn new languages (currently imparando l'italiano) and, of course, make the difference wherever I am!
 
 ### Technologies & Tools I work with:
 
