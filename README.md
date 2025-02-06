@@ -1,7 +1,7 @@
 ## Hey there, I'm Larissa Raimee ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 
 ### About me:
-A passionate Computer Science senior, intern @ It4us and Machine Learning researcher. Also, I love to play piano, learn new languages (currently imparando l'italiano) and, of course, make the difference wherever I am!
+A passionate Computer Science senior, CyberSecurity intern at It4us and Machine Learning researcher. Also, I love to play piano, learn new languages (currently imparando l'italiano) and, of course, make the difference wherever I am!
 
 ### Technologies & Tools I work with:
 
