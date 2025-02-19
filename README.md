@@ -29,6 +29,7 @@ A passionate Computer Science senior, CyberSecurity intern at It4us and Machine 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-raimee) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/srta.raimee/) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@srta.raimee) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@srta.raimee) [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@srtaraimee)  
 
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1974476" style='border:none;'></iframe>
 
 
 
