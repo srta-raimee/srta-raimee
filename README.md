@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Winky+Rough&size=25&pause=1000&color=F76CCF&width=435&lines=Hello+there!+I'm+Larissa+Raimee+%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%E0%AD%A8%E0%AD%A7+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85)](https://git.io/typing-svg)
 
 ### About me:
-A passionate Computer Science senior and Machine Learning researcher. Also, I love to play piano, learn new languages and, of course, make the difference wherever I am!
+A passionate Computer Scientist and researcher @ Ford Motor Company. Also, I love to play piano, learn new languages and, of course, make the difference wherever I am!
 
 ### Technologies & Tools I work with:
 
