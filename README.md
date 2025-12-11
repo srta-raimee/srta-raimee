@@ -11,7 +11,9 @@ A passionate Computer Science senior and Machine Learning researcher. Also, I lo
 
 
 - **Frameworks:**
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![QT](https://img.shields.io/badge/QT-41CD52?style=flat-square&logo=qt&logoColor=white) [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![QT](https://img.shields.io/badge/QT-41CD52?style=flat-square&logo=qt&logoColor=white) [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
 
 
 - **Databases:**
